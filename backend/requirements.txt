@@ -1,0 +1,11 @@
+
+# Audio Processing
+webrtcvad-wheels
+pyaudio
+
+# Wake Word Detection
+livekit-wakeword[listener]
+
+# GUI Automation
+pyautogui
+pyperclip
